@@ -1,0 +1,24 @@
+{
+  "name": "orchard",
+  "version": "1.0.0",
+  "description": "A Tree Library written in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuicheSama/orchard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuicheSama/orchard/issues"
+  },
+  "homepage": "https://github.com/QuicheSama/orchard#readme",
+  "devDependencies": {
+    "@types/node": "^7.0.27",
+    "typescript": "^2.3.4"
+  }
+}
